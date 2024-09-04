@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm FrAle01👋
 
 ## 💫 About Me:
 - 🌱 I’m currently learning ... Artificial Intelligence and Data Engineering at University of Pisa<br>
